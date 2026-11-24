@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/raw/

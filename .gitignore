@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/
+
+# Large processed datasets
+data/processed/cleaned_energy_data.csv
+data/processed/energy_data.csv
+data/processed/sgcc_cleaned.csv
+
+# Large old and energy models
+models/energy_prediction_model.pkl
+models/improved_energy_prediction_model.pkl
+
+# Temporary files
+Thumbs.db
+.DS_Store
